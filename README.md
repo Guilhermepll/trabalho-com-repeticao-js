@@ -1,12 +1,13 @@
-#exercício While e If Else
+# Exercício While e If Else
 
 Projeto feito para praticar:
 
-while
-if e else
-lógica de programação
-Tecnologias:
+- While
+- If e else
+- Lógica de programação
 
-HTML
-Css
-JavaScript
+## Tecnologias:
+
+- HTML
+- Css
+- JavaScript
