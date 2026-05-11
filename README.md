@@ -6,7 +6,7 @@ Projeto feito para praticar:
 - If e else
 - Lógica de programação
 
-## Tecnologias:
+## Tecnologias usadas:
 
 - HTML
 - Css
