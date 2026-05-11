@@ -1,2 +1,10 @@
-# trabalho-com-repeticao-js
-Projeto simples com repetição (while), if e else.
+Projeto feito para praticar:
+
+while
+if e else
+lógica de programação
+Tecnologias:
+
+HTML
+Css
+JavaScript
